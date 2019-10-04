@@ -2,8 +2,8 @@ package storage
 
 import (
 	"errors"
+	"github.com/arturpanteleev/panteleevDb/storage/lru"
 	"github.com/dhconnelly/rtreego"
-	"panteleevDb/storage/lru"
 	"sync"
 	"time"
 )

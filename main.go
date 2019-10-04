@@ -2,7 +2,7 @@ package main
 
 import (
 	"flag"
-	"panteleevDb/api"
+	"github.com/arturpanteleev/panteleevDb/api"
 )
 
 func main() {

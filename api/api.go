@@ -1,10 +1,10 @@
 package api
 
 import (
+	"github.com/arturpanteleev/panteleevDb/storage"
 	"github.com/dhconnelly/rtreego"
 	"github.com/labstack/echo"
 	"net/http"
-	"panteleevDb/storage"
 	"strconv"
 	"sync"
 	"time"
